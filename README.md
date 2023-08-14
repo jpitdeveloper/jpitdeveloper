@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/jpitdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jpitdeveloper?logo=twitter&style=for-the-badge" alt="jpitdeveloper" /></a> </p>
 
 
-- 📫 How to reach me **jacky.lephoto@gmail.com**
+- 📫 Email: **jacky.lephoto@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,7 @@
 <a href="https://twitter.com/jpitdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpitdeveloper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpitdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpitdeveloper" height="30" width="40" /></a>
 <a href="https://fb.com/jpitdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jpitdeveloper" height="30" width="40" /></a>
-<a href="https://instagram.com/jpitdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpitdeveloper" height="30" width="40" /></a>
+<a href="https://instagram.com/beatbyjayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jpitdeveloper" height="30" width="40" /></a>
 <a href="https://discord.gg/1139895688222748804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1139895688222748804" height="30" width="40" /></a>
 </p>
 
