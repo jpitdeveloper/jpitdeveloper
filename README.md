@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/jpitdeveloper" target="blank"><img src="https://img.shields.io/twitter/follow/jpitdeveloper?logo=twitter&style=for-the-badge" alt="jpitdeveloper" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jpitdeveloper.com](jpitdeveloper.com)
 
 - 📫 How to reach me **jacky.lephoto@gmail.com**
 
-- 📄 Know about my experiences [jplephoto.com](jplephoto.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
